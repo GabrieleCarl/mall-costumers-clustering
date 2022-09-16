@@ -1,1 +1,3 @@
 # mall-costumers-clustering
+
+KMeans
